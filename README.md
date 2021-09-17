@@ -1,4 +1,4 @@
-# Solução do Fluxo de Potência DC Otimizado pelo método de Newton-Raphson
+# Solução do Fluxo de Potência DC Otimizado
 
 Algoritmo desenvolvido durante a disciplina de Análise de Sistemas Elétricos de Potência II durante a graduação em Engenharia Elétrica pela Universidade Federal de São João del-Rei.
 
